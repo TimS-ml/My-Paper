@@ -21,10 +21,10 @@ Still working on my private paper note...
 - CNN
 - RNN/LSTM/GRU/Bidirectional
 - ELMo
-
 - BERT
+- GPT
 
-
+## Classification
 - ReNN
   - 2011 RAE
   - 2012 MV-RNN
